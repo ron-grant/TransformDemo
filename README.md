@@ -4,6 +4,9 @@ This is a simple 2D transform demo (mostly some 3D) written originally using Pro
 
 The goal of this demo is to show how one might draw an array of tiles with different orientations, i.e. rotated 0,90,180 or 270 degrees placed in an array with a given number of columns ("across the page") and a given number of rows ("down the page").
 
-WOrking to make this demo accessible as web page.
+Working to make this demo accessible as web page.
 This repo was branched to gh-pages then in settings gh-pages set to default branch.
+Also master branch was deleted.
+
+site published at  http://ron-grant.github.io/TransformDemo
 
